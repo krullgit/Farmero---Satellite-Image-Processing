@@ -1,5 +1,9 @@
 # Farmero App
 
+<p align="center"> 
+<img src="farmero.png">
+</p>
+
 Submission for TU Berlin by Matthes Krull, Ajay Kumar Mandapati, Kashika Manocha 
 
 
@@ -26,20 +30,20 @@ The apk file (just download and install on Android Phones) is located under:
 https://drive.google.com/open?id=1Yst1J-KTq20vNTUjDoNVezxotOsCipac
 ```
 
-## 2. Backend (NodeJS, Python)
-Text
-```
-
-```
+## 2. Backend (NodeJS, Python, Google-Cloud)
+The contents of the backend can be found in the docker_backed folder:
+- Files needed to build the Nodejs server
+- Output files from the Nodejs server
+- Steps to create the Google-cloud instance and moving docker to the cloud
 
 ## 3. Disease prediction (Python)
-Text
-```
-
-```
+Alexnet model, Mobilenet Model
+- Converting this to TF-lite can be found in the folder keras_to_tensorflow
+- Converting the Alexnet model to Mobilenet can be found in alexnet_to_mobilenet
 
 ## 3. Docker
-Text
-```
+Docker instructions to build the image can be found in the folder docker_backend:
+- Docker_instructions
+- Dockerfile
+- Please find the pre-built image at this URL: https://cloud.docker.com/u/akumarmandapati3067/repository/docker/akumarmandapati3067/farmero_final
 
-```
