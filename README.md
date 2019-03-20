@@ -23,7 +23,7 @@ app/farmero/app/src/main/java/com/example/matthes/farmero
 ```
 The apk file (just download and install on Android Phones) is located under:
 ```
-app/apk
+https://drive.google.com/open?id=1Yst1J-KTq20vNTUjDoNVezxotOsCipac
 ```
 
 ## 2. Backend (NodeJS, Python)
