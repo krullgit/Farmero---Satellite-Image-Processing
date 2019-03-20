@@ -47,5 +47,7 @@ Alexnet model, Mobilenet Model
 Docker instructions to build the image can be found in the folder docker_backend:
 - Docker_instructions
 - Dockerfile
-- Please find the pre-built image at this URL: https://cloud.docker.com/u/akumarmandapati3067/repository/docker/akumarmandapati3067/farmero_final
+- Please find the pre-built image at this URL:
+``` https://cloud.docker.com/u/akumarmandapati3067/repository/docker/akumarmandapati3067/farmero_final
+```
 
