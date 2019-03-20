@@ -1,5 +1,9 @@
 # Farmero App
 
+<p align="center"> 
+<img src="farmero.png">
+</p>
+
 Submission for TU Berlin by Matthes Krull, Ajay Kumar Mandapati, Kashika Manocha 
 
 
