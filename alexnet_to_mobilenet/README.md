@@ -2,6 +2,8 @@
 
 This repo contains code for the "TensorFlow for poets 2" series of codelabs.
 
+## Please make suitable changes to point the dataset for the plant_diseases discussed in the project and retrain the NN to a mobile-net.
+
 There are multiple versions of this codelab depending on which version 
 of the tensorflow libraries you plan on using:
 
