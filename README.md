@@ -33,10 +33,9 @@ Text
 ```
 
 ## 3. Disease prediction (Python)
-Text
-```
-
-```
+Alexnet model, Mobilenet Model
+- Converting this to TF-lite can be found in the folder keras_to_tensorflow
+- Converting the Alexnet model to Mobilenet can be found in alexnet_to_mobilenet
 
 ## 3. Docker
 Text
