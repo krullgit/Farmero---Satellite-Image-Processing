@@ -1,0 +1,15 @@
+/app/farmero/*.iml
+/app/farmero/.gradle
+/app/farmero/local.properties
+/app/farmero/.idea/caches/build_file_checksums.ser
+/app/farmero/.idea/libraries
+/app/farmero/.idea/modules.xml
+/app/farmero/.idea/workspace.xml
+/app/farmero/.idea
+/app/farmero/.DS_Store
+/app/farmero/build
+/app/farmero/captures
+/app/farmero/.externalNativeBuild
+
+/app/farmero/app/src/main/assets/
+

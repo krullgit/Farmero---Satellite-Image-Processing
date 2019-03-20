@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "634391090764",
+    "firebase_url": "https://farmero-760d6.firebaseio.com",
+    "project_id": "farmero-760d6",
+    "storage_bucket": "farmero-760d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634391090764:android:0827c50b26c5e73d",
+        "android_client_info": {
+          "package_name": "com.example.matthes.farmero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634391090764-1m49ep7aga7njrgsqfh7sueh5ipnogjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matthes.farmero",
+            "certificate_hash": "ad92e205da3e18ce4946392e1b3fccdd34a494d0"
+          }
+        },
+        {
+          "client_id": "634391090764-ajq0as9sm0slvvon3lmv0056dt63mgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRh2Tvm6DV6yHJZmakZFu5mM28LDdfSy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634391090764-ajq0as9sm0slvvon3lmv0056dt63mgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
