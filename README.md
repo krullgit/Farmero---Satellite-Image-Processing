@@ -11,7 +11,7 @@ Submission by Matthes Krull, Ajay Kumar Mandapati, Kashika Manocha
 
 The project is divided into four parts: 0. Dokumentation 1. App (Frontend, Android Studio) 2. Backend (NodeJS, Python) 3. Disease prediction (Tensorflow, Keras, Python) and 4. Docker(Hosting the backend on GCP)
 
-## 0. Dokumentation
+## 0. Documentation
 
 Installation instructions, use cases, data for testing, list of devices:
 
@@ -31,6 +31,7 @@ https://docs.google.com/document/d/1ht4LUhrgRNuauB-o0SNxFnezEgDebQo332tsWxCEhZw/
 
 Plant Disease Prediction Report
 ```
+https://docs.google.com/document/d/11wOL8-AUdbCWhy4Ii85pJ-BHtwd0qRDjvr8RbxV7yDk/edit?usp=sharing
 ```
 
 
