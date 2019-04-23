@@ -4,30 +4,55 @@
 <img src="farmero.png">
 </p>
 
-Submission for TU Berlin by Matthes Krull, Ajay Kumar Mandapati, Kashika Manocha 
+Submission by Matthes Krull, Ajay Kumar Mandapati, Kashika Manocha 
 
 
 ## Content
 
+The project is divided into four parts: 0. Dokumentation 1. App (Frontend, Android Studio) 2. Backend (NodeJS, Python) 3. Disease prediction (Tensorflow, Keras, Python) and 4. Docker(Hosting the backend on GCP)
 
-The project is divided into four parts: 1. App (Frontend, Android Studio) 2. Backend (NodeJS, Python) 3. Disease prediction (Tensorflow, Keras, Python) and 4. Docker(Hosting the backend on GCP)
+## 0. Dokumentation
+
+Installation instructions, use cases, data for testing, list of devices:
+
+```
+https://docs.google.com/document/d/12zU_qe97C54v56L5b--gz6MDRKUx1uSTPHwWqAvEVtQ/edit?usp=sharing
+```
+
+Architecture
+```
+https://docs.google.com/document/d/1ht4LUhrgRNuauB-o0SNxFnezEgDebQo332tsWxCEhZw/edit?usp=sharing
+```
+
+Field Risk Prediction Report
+```
+https://docs.google.com/document/d/1ht4LUhrgRNuauB-o0SNxFnezEgDebQo332tsWxCEhZw/edit?usp=sharing
+```
+
+Plant Disease Prediction Report
+```
+```
+
 
 ## 1. App (Frontend, Android Studio)
 
-The Android Studio project is located under (Disease prediction models are not included due to their size):
+
+The apk file (Please see installation instructions under "dokumentation") is located under:
+```
+https://drive.google.com/file/d/1L0T9WyWfxgZUjypk5S9C5cAfiQ0s5TNy/view?usp=sharing
+```
+
+Android Studio project (just open as existing project in Android Studio):
 
 ```
-app/farmero
+https://drive.google.com/file/d/15kx5okl4lQYOwIX815osJ4Q3o9s2ujC4/view?usp=sharing
 ```
 The relevant Android Studio Java Classes are located under:
 
 ```
 app/farmero/app/src/main/java/com/example/matthes/farmero
 ```
-The apk file (just download and install on Android Phones) is located under:
-```
-https://drive.google.com/open?id=1Yst1J-KTq20vNTUjDoNVezxotOsCipac
-```
+
 
 ## 2. Backend (NodeJS, Python, Google-Cloud)
 The contents of the backend can be found in the docker_backed folder:
@@ -43,7 +68,7 @@ Alexnet model, Mobilenet Model
 - Converting this to TF-lite can be found in the folder keras_to_tensorflow
 - Converting the Alexnet model to Mobilenet can be found in alexnet_to_mobilenet
 
-## 3. Docker
+## 4. Docker
 Docker instructions to build the image can be found in the folder docker_backend:
 - Docker_instructions
 - Dockerfile
