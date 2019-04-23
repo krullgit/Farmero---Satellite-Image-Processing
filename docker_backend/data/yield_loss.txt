@@ -1,0 +1,8 @@
+white pixels:
+46.000000
+black pixels:
+15430.000000
+Loss is:
+0.298121
+Difference in NDVI images from Day-1 to Day-2 
+2.795860
