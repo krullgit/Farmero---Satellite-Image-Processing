@@ -59,6 +59,11 @@ The relevant Android Studio Java Classes are located under:
 ```
 app/farmero/app/src/main/java/com/example/matthes/farmero
 ```
+The relevant test-cases can be located here:
+
+```
+https://drive.google.com/drive/folders/1dh7QRQPWtkv-3Kq2t7QeuO7Pr-mWBzYi?usp=sharing
+```
 
 
 ## 2. Backend (NodeJS, Python, Google-Cloud)
