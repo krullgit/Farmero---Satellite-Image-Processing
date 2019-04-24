@@ -68,8 +68,7 @@ The contents of the backend can be found in the docker_backed folder:
 - Steps to create the Google-cloud instance and moving docker to the cloud
 
 ## 3. Disease prediction (Tensorflow, Keras, Python)
-- Navigate to the plant_disease_detection folder to find the ipython notebook which has the description of the Alexnet implemented on the dataset ( Dataset is not uploaded since it is 1.67 GB ).
-Put the link to the dataset - HERE!
+- Navigate to the plant_disease_detection folder to find the ipython notebook which has the description of the Alexnet implemented on the dataset ( Please find the dataset in this location: https://drive.google.com/drive/folders/1dh7QRQPWtkv-3Kq2t7QeuO7Pr-mWBzYi?usp=sharing).
 - Python code for relating diseases with the possible mitigation cases can be found in this folder.
 
 Alexnet model, Mobilenet Model
