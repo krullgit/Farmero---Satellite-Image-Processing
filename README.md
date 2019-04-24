@@ -32,7 +32,7 @@ https://docs.google.com/document/d/1ht4LUhrgRNuauB-o0SNxFnezEgDebQo332tsWxCEhZw/
 
 Field Risk Prediction Report
 ```
-https://docs.google.com/document/d/1ht4LUhrgRNuauB-o0SNxFnezEgDebQo332tsWxCEhZw/edit?usp=sharing
+https://docs.google.com/document/d/1kjCrEjYT7wUjAmj_yfo9747YEgxNifbBahLf5nSGl4o/edit?usp=sharing
 ```
 
 Plant Disease Prediction Report
