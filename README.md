@@ -24,6 +24,8 @@ Architecture
 https://docs.google.com/document/d/1ht4LUhrgRNuauB-o0SNxFnezEgDebQo332tsWxCEhZw/edit?usp=sharing
 ```
 
+## 0.1 AI-Machine Learning part
+
 Field Risk Prediction Report
 ```
 https://docs.google.com/document/d/1ht4LUhrgRNuauB-o0SNxFnezEgDebQo332tsWxCEhZw/edit?usp=sharing
@@ -38,7 +40,7 @@ https://docs.google.com/document/d/11wOL8-AUdbCWhy4Ii85pJ-BHtwd0qRDjvr8RbxV7yDk/
 ## 1. App (Frontend, Android Studio)
 
 
-The apk file (Please see installation instructions under "dokumentation") is located under:
+The apk file (Please see installation instructions under "documentation") is located under:
 ```
 https://drive.google.com/file/d/1L0T9WyWfxgZUjypk5S9C5cAfiQ0s5TNy/view?usp=sharing
 ```
@@ -63,6 +65,7 @@ The contents of the backend can be found in the docker_backed folder:
 
 ## 3. Disease prediction (Tensorflow, Keras, Python)
 - Navigate to the plant_disease_detection folder to find the ipython notebook which has the description of the Alexnet implemented on the dataset ( Dataset is not uploaded since it is 1.67 GB ).
+Put the link to the dataset - HERE!
 - Python code for relating diseases with the possible mitigation cases can be found in this folder.
 
 Alexnet model, Mobilenet Model
