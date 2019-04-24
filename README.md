@@ -9,7 +9,7 @@ Submission by Matthes Krull, Ajay Kumar Mandapati, Kashika Manocha
 
 ## Content
 
-The project is divided into four parts: 0. Dokumentation 1. App (Frontend, Android Studio) 2. Backend (NodeJS, Python) 3. Disease prediction (Tensorflow, Keras, Python) and 4. Docker(Hosting the backend on GCP)
+The project is divided into four parts: 0. Documentation 1. App (Frontend, Android Studio) 2. Backend (NodeJS, Python) 3. Disease prediction (Tensorflow, Keras, Python) and 4. Docker(Hosting the backend on GCP)
 
 ## 0. Documentation
 
@@ -17,6 +17,10 @@ Installation instructions, use cases, data for testing, list of devices:
 
 ```
 https://docs.google.com/document/d/12zU_qe97C54v56L5b--gz6MDRKUx1uSTPHwWqAvEVtQ/edit?usp=sharing
+```
+Testing vedio and Data for ML part.
+```
+https://drive.google.com/drive/folders/1dh7QRQPWtkv-3Kq2t7QeuO7Pr-mWBzYi?usp=sharing
 ```
 
 Architecture
