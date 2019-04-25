@@ -18,7 +18,7 @@ Installation instructions, use cases, data for testing, list of devices:
 ```
 https://docs.google.com/document/d/12zU_qe97C54v56L5b--gz6MDRKUx1uSTPHwWqAvEVtQ/edit?usp=sharing
 ```
-Testing vedio and Data for ML part.
+Testing video and Data for ML part.
 ```
 https://drive.google.com/drive/folders/1dh7QRQPWtkv-3Kq2t7QeuO7Pr-mWBzYi?usp=sharing
 ```
