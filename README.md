@@ -49,16 +49,23 @@ The apk file (Please see installation instructions under "documentation") is loc
 https://drive.google.com/file/d/1L0T9WyWfxgZUjypk5S9C5cAfiQ0s5TNy/view?usp=sharing
 ```
 
+Farmero app demo video can be found here which includes functionality overview:
+```
+https://drive.google.com/file/d/1h6_hdf7T6Cm02Z-kgYC0UnnWyTF_bi0i/view?usp=sharing
+```
+
 Android Studio project (just open as existing project in Android Studio):
 
 ```
 https://drive.google.com/file/d/15kx5okl4lQYOwIX815osJ4Q3o9s2ujC4/view?usp=sharing
 ```
+
 The relevant Android Studio Java Classes are located under:
 
 ```
 app/farmero/app/src/main/java/com/example/matthes/farmero
 ```
+
 The relevant test-cases can be located here:
 
 ```
@@ -74,7 +81,6 @@ The contents of the backend can be found in the docker_backed folder:
 
 ## 3. Disease prediction (Tensorflow, Keras, Python)
 - Navigate to the plant_disease_detection folder to find the ipython notebook which has the description of the Alexnet implemented on the dataset ( Please find the dataset in this location: https://drive.google.com/drive/folders/1dh7QRQPWtkv-3Kq2t7QeuO7Pr-mWBzYi?usp=sharing).
-- Python code for relating diseases with the possible mitigation cases can be found in this folder.
 
 Alexnet model, Mobilenet Model
 - Converting this to TF-lite can be found in the folder keras_to_tensorflow
