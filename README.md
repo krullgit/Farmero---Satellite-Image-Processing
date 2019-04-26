@@ -46,7 +46,7 @@ https://docs.google.com/document/d/11wOL8-AUdbCWhy4Ii85pJ-BHtwd0qRDjvr8RbxV7yDk/
 
 The apk file (Please see installation instructions under "documentation") is located under:
 ```
-https://drive.google.com/file/d/1L0T9WyWfxgZUjypk5S9C5cAfiQ0s5TNy/view?usp=sharing
+https://drive.google.com/drive/folders/16IjxUqx6Fo8art5ec7Td6zirn6yjSLF7?usp=sharing
 ```
 
 Farmero app demo video can be found here which includes functionality overview:
